@@ -1,4 +1,3 @@
-// const { json } = require('mocha/lib/reporters');
 const request = require('request');
 /**
  * Makes a single API request to retrieve the user's IP address.
